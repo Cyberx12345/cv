@@ -1,0 +1,62 @@
+
+        body{
+            background-color: hsl(180, 77%, 88%);
+        }
+        hr{
+        
+            border-style:  none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 5px;
+            width: 30px;
+        }
+        a{
+            color: hotpink;
+        
+            margin: 10px;
+        }
+        a:hover{
+            color: lightcoral;
+            font-size: 99%;
+            
+            
+        }
+        image{
+            position: absolute;
+            size: 12px
+        }
+        image:hover{
+          border-image-width: 45%;
+        }
+        h1{
+            font-family:  'Pacifico';
+            font-style: italic;
+            color-scheme: normal;
+            outline-color: rgb(220, 255, 236);
+            color: rgb(79, 241, 87);
+        }
+        h1:hover{
+            color: teal;
+            font-style: normal;
+
+        }
+        h3{
+            color:#66BFBF;
+            padding: 10px;
+            margin: 10px;
+        }
+        h3:hover{
+            color:darkviolet;
+        }
+        h4{
+            color:slateblue;
+            padding: 10px;
+            margin: 10px;
+        }
+        h4:hover{
+            color:darkviolet;
+        }
+
+
+
+
